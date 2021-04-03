@@ -1,3 +1,5 @@
 
+# tmp files
+*~
 # ignore gvim tmp files
 .*.sw?
